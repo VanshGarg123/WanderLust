@@ -1,6 +1,6 @@
 # 🌍 Wanderlust
 
-**Wanderlust** is a fully functional web application that allows users to browse and book resorts and hotels. It features real-time data fetching from a backend database, offering a smooth and dynamic experience for users looking to plan their stays at various destinations.
+**Wanderlust** is a fully functional web application that allows users to browse resorts and hotels and modify it. It features real-time data fetching from a backend database, offering a smooth and dynamic experience for users looking to plan their stays at various destinations.
 
 ---
 
