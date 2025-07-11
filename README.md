@@ -25,4 +25,4 @@
 
 ---
 
-Website Link - https://wanderlust-ntvu.onrender.com/listings
+Website Link - https://wanderlust-3npj.onrender.com/listings
